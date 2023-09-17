@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ImbdNavBar</string>
+    <string name="title_home">Inicio</string>
+    <string name="title_search">Buscar</string>
+    <string name="title_profile">Perfil</string>
+    <string name="official_trailer">Trailer oficial</string>
+    <string name="best_selections">Las mejores selecciones</string>
+    <string name="search_movie">Buscar pelicula</string>
+</resources>
